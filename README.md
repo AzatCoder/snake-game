@@ -8,7 +8,7 @@ Developed on: react, mobx-state-tree + css-in-js. \
 Unit & integration tests on: jest, react testing library.
 
 
-__Hotkeys__: \
+__Keys__: \
 <kbd>f</kbd> - reload \
 <kbd>space</kbd> - resume/pause \
 <kbd>&#8593;</kbd> <kbd>&#8594;</kbd> <kbd>&#8595;</kbd> <kbd>&#8592;</kbd> - change snake direction
