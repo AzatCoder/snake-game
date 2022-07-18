@@ -4,8 +4,8 @@
 
 [Play!](snake-game-olive.vercel.app)
 
-Developed on: react, mobx-state-tree + css-in-js. \
-Unit & integration tests on: jest, react testing library.
+Developed using: react, mobx-state-tree + css-in-js. \
+Unit & integration tests using: jest, react testing library.
 
 
 __Keys__: \
