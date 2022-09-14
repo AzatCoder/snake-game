@@ -1,6 +1,5 @@
 # snake-game
 
-[Play!](snake-game-olive.vercel.app)
 
 react, mobx-state-tree + css-in-js. \
 jest, react testing library.
