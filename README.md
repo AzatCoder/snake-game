@@ -1,11 +1,9 @@
 # snake-game
 
-### Hi! It's just relaxing snake game. Made for fun :)
-
 [Play!](snake-game-olive.vercel.app)
 
-Developed using: react, mobx-state-tree + css-in-js. \
-Unit & integration tests using: jest, react testing library.
+react, mobx-state-tree + css-in-js. \
+jest, react testing library.
 
 
 __Keys__: \
